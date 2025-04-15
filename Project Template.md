@@ -15,24 +15,25 @@ What role do guest satisfaction metrics, room types, and host attributes play in
 Are there significant differences in pricing between weekdays and weekends, and how can hosts optimize their pricing strategies accordingly?
 By addressing these questions, the project seeks to provide clarity on the determinants of Airbnb prices and offer actionable recommendations for hosts and travelers.
 # Technical Details
-a. Data Sources
+## Data Sources
 Airbnb listings data for 8 European cities (Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, London, Paris, Rome, Vienna).
 Data split into weekday and weekend files for each city.
 Attributes include realSum (price), room_type, host_is_superhost, cleanliness_rating, guest_satisfaction_overall, bedrooms, dist, metro_dist, lng, lat, etc.
-b. Tools and Technologies
+
+## Tools and Technologies
 Python : For data cleaning and merging.
 Tableau : For creating interactive visualizations and dashboards.
-c. Analysis Techniques
+
+## Analysis Techniques
 Exploratory Data Analysis (EDA): To identify trends and outliers.
 Visualizations: Bar charts, scatter plots, heatmaps, and dual-axis charts to explore relationships between variables.
 # Structure
-a. Data Preparation
+## Data Preparation
 Combine weekday and weekend CSV files into a single dataset.
 Clean missing values.
 Add derived features (e.g., city-specific indicators).
 
-
-b. Visualization
+## Visualization
 Build individual worksheets in Tableau focusing on specific aspects (e.g., price distribution, geographical patterns).
 Combine worksheets into an interactive dashboard with filters and highlighting.
 c. Insights and Recommendations
