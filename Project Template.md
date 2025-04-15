@@ -13,7 +13,7 @@ Airbnb hosts and travelers face challenges in understanding how various factors 
 - How do location-based factors (e.g., distance from city center, proximity to metro stations) affect Airbnb prices?
 - What role do guest satisfaction metrics, room types, and host attributes play in determining prices?
 - Are there significant differences in pricing between weekdays and weekends, and how can hosts optimize their pricing strategies accordingly?
-- 
+  
 By addressing these questions, the project seeks to provide clarity on the determinants of Airbnb prices and offer actionable recommendations for hosts and travelers.
 # Technical Details
 ## Data Sources
