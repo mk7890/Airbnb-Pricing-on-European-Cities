@@ -25,7 +25,7 @@ Tableau : For creating interactive visualizations and dashboards.
 c. Analysis Techniques
 Exploratory Data Analysis (EDA): To identify trends and outliers.
 Visualizations: Bar charts, scatter plots, heatmaps, and dual-axis charts to explore relationships between variables.
-# Program Structure
+# Structure
 a. Data Preparation
 Combine weekday and weekend CSV files into a single dataset.
 Clean missing values.
