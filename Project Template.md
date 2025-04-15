@@ -2,7 +2,7 @@
 
 # Project Title: Determinants of Airbnb Prices in European Cities
 
-# Project Overview
+# Project Overview (Objectives)
 The "Airbnb Prices in European Cities" project aims to analyze and visualize pricing trends, geographical patterns, and guest satisfaction metrics across some of Europe's most popular cities. Using spatial econometric methods and Tableau visualizations, this project explores the determinants of Airbnb prices, including room types, proximity to city centers, cleanliness ratings, and host attributes. By combining data from multiple cities and time periods (weekdays vs. weekends), we aim to provide actionable insights into pricing strategies for hosts and identify key factors influencing profitability.
 
 # Project Summary
@@ -10,9 +10,10 @@ This project utilizes a comprehensive dataset of Airbnb listings across 10 Europ
 
 # Problem Statement
 Airbnb hosts and travelers face challenges in understanding how various factors influence pricing across different European cities. Key questions include:
-How do location-based factors (e.g., distance from city center, proximity to metro stations) affect Airbnb prices?
-What role do guest satisfaction metrics, room types, and host attributes play in determining prices?
-Are there significant differences in pricing between weekdays and weekends, and how can hosts optimize their pricing strategies accordingly?
+- How do location-based factors (e.g., distance from city center, proximity to metro stations) affect Airbnb prices?
+- What role do guest satisfaction metrics, room types, and host attributes play in determining prices?
+- Are there significant differences in pricing between weekdays and weekends, and how can hosts optimize their pricing strategies accordingly?
+- 
 By addressing these questions, the project seeks to provide clarity on the determinants of Airbnb prices and offer actionable recommendations for hosts and travelers.
 # Technical Details
 ## Data Sources
