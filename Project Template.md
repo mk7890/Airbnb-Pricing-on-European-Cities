@@ -47,8 +47,9 @@ Save the cleaned dataset for further analysis.
 
 Day 2: Tableau Dashboard Creation
 Import the cleaned dataset into Tableau.
-Create individual worksheets (e.g., price distribution, geographical heatmap).
-Build an interactive dashboard with filters and storytelling elements.
+Create individual worksheets.
+Day 3: Build an interactive dashboard with filters.
+
 # Potential Challenges
 Data Quality Issues :
 Missing or inconsistent data may require imputation or removal.
