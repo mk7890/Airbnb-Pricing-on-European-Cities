@@ -40,6 +40,9 @@ Link : [https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbn
 # Website/App
 Link : https://tempo-deployment-ed0e847f-7c75-4f19-ac37-275dd9c2b69-fjzfwaby0.vercel.app/
 
+# Presentation
+Canva Link: https://www.canva.com/design/DAGlTG7jE7Q/LSSGkEcX5vgD2KLvIXAtkg/edit?utm_content=DAGlTG7jE7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Key Findings:
 - Room Type Distribution : Majority of listings were composed of Entire home/apartment room type (Over 63%), Private room listings made up about 36% of all listings Shared room listings were less than 1% of total listings.
 - Listings per Cityand by Room TypeTop 5 cities with most listings:London, Rome, Paris, Lisbon, Athens.Shared room type consistentlyremained the least popular categoryacross all cities.London, Rome and Lisbon are the topthree cities with the highestcombination of Entirehome/apartment and Private Room Types.
