@@ -37,6 +37,9 @@ Columns:
 # Analysis Worksheets and Dashboard
 Link : [https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes](https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes)
 
+# Medium blog
+Link : https://medium.com/@mugambimoses2/airbnb-insights-for-hosts-travelers-across-european-cities-c1f21b121e8a
+
 # Website/App
 Link : https://tempo-deployment-ed0e847f-7c75-4f19-ac37-275dd9c2b69-fjzfwaby0.vercel.app/
 
