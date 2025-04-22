@@ -35,7 +35,7 @@ Columns:
 - listing_period : weekday or weekend listing
 
 # Analysis Worksheets and Dashboard
-Link : [https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes](https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes)
+Link : https://public.tableau.com/authoring/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/TravelersBookingAssistantDashboard#1
 
 # Medium blog
 Link : https://medium.com/@mugambimoses2/airbnb-insights-for-hosts-travelers-across-european-cities-c1f21b121e8a
