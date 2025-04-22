@@ -37,5 +37,31 @@ Columns:
 # Analysis Worksheets and Dashboard
 Link : [https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes](https://public.tableau.com/app/profile/moses.mugambi/viz/AnalysisofAirbnbPricesinEuropeanCities_17452248450510/HostStrategyDashboard?publish=yes)
 
+# Website/App
+Link : https://tempo-deployment-ed0e847f-7c75-4f19-ac37-275dd9c2b69-fjzfwaby0.vercel.app/
 
+# Key Findings:
+- Room Type Distribution : Majority of listings were composed of Entire home/apartment room type (Over 63%), Private room listings made up about 36% of all listings Shared room listings were less than 1% of total listings.
+- Listings per Cityand by Room TypeTop 5 cities with most listings:London, Rome, Paris, Lisbon, Athens.Shared room type consistentlyremained the least popular categoryacross all cities.London, Rome and Lisbon are the topthree cities with the highestcombination of Entirehome/apartment and Private Room Types.
+- Room Type Preferences : Entire home/apartment Room Type is the highest rated based onGuest Satisfaction ratings, with the Shared Room Type being theleast preferred.
+- Most Affordable Cities for Entire home/apartment for the Weekend : Athens, Budapest, Rome, Vienna, and Lisbon are the mostaffordable cities for renting an Entire home/apartment for theweekend for less than 300 Euros per day.
+- Influence of Distance from the City Center and the Nearest Metro Transport on Listing Price : Average listing price has negative correlation for the increase in both distancefrom the city center and nearest metro transport.
+- Strategic Location Conviniences by City : For travelers/tourists wishing to stay close to a beach location, cities such asLisbon, Barcelona, Amsterdam, Rome and Athens are the most ideal to visit.
+- Superhost Relation to Guest Satisfaction and Price : Guest satisfaction is higher under listingsoffered by a superhost.Superhosts don’t necessarily chargehigher than non-superhosts.
+- Influence of Listing Cleanliness on Guest Satisfaction : Positive correaltion between cleanliness and guest satisfaction.
+- Price Distribution by Room Type Across Cities : Entire home/apartment listings consistently rank highest in price across all cities.Amsterdam has the most expensive listings of all types.
 
+## Host Recommendations
+- Optimize Pricing Based on Location and Room Type : Listings closer to the city center and metro stations command higher prices—if your listing is further away, considerlowering the price or offering additional amenities to remain competitive.
+- Aim for Superhost Status : Superhosts tend to have higher guest satisfaction . Focus on maintaining a high cleanliness rating, quick responses, and consistent 5-star reviews.
+- Invest in Entire Homes for Higher Capacity Bookings : Larger-capacity and entire home/apt listings typically yield higher revenue per night. If feasible, consider converting space to accommodate more guests.
+- Maintain Cleanliness & Ratings : Cleanliness and overall satisfaction are strong predictors of repeat bookings and positive reviews. Ensure thorough cleaning between stays and provide essentials (soap, fresh linens).
+- Use Weekend vs Weekday Pricing Strategy : Analyze listing performance by day. If weekends have higher demand, adjust your rates accordingly using dynamic pricing tools.
+
+## Traveler/Tourist Recommendations
+- Look Beyond the City Center for Better Deals : Lis tings just a few kilometers from the city center or metro can be significantly cheaper while still being accessible.
+- Choose Private or Entire Spaces for Comfort : While shared rooms are cheaper, private or entire apartments offer better comfort and security, especially for couples or families.
+- Book with Superhosts for Reliable Stays : Superhosts consistently offer better hospitality, cleaner spaces, and higher-rated experiences, ideal for first-time or solo travelers.
+- Travel Mid-Week for Lower Prices : Prices tend to dip on weekdays.
+- Plan Ahead in for Cities with few listings : Cities like Amsterdam, Berlin, Barcelona, and Vienna often have high competition due to limited listings. Book early to get the best value.
+- Focus on listings with high cleanliness scores and guest satisfaction for a better overall experience.
