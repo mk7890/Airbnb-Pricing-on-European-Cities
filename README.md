@@ -41,7 +41,8 @@ Link : https://public.tableau.com/authoring/AnalysisofAirbnbPricesinEuropeanCiti
 Link : https://medium.com/@mugambimoses2/airbnb-insights-for-hosts-travelers-across-european-cities-c1f21b121e8a
 
 # Website/App
-Link : https://tempo-deployment-ed0e847f-7c75-4f19-ac37-275dd9c2b69-fjzfwaby0.vercel.app/
+Link1 : https://euro-airbnb-explorer.lovable.app/#findings
+Link2 : https://tempo-deployment-ed0e847f-7c75-4f19-ac37-275dd9c2b69-fjzfwaby0.vercel.app/
 
 # Presentation
 Canva Link: https://www.canva.com/design/DAGlTG7jE7Q/LSSGkEcX5vgD2KLvIXAtkg/edit?utm_content=DAGlTG7jE7Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
